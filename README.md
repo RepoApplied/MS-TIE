@@ -12,7 +12,9 @@ In the `src/` folder, you will find the notebooks with simulations and experimen
 ## Paper
 
 
-**Related Reference:** "GPU-optimized Matrix Method for Phase Retrieval with the Transport of Intensity Equation" Alejandro Silva and Julia Alonso.
+**Related Reference:** 
+
+Alejandro Silva and Julia R. Alonso, "GPU-optimized matrix method for phase retrieval with the transport of intensity equation," Appl. Opt. 64, A62-A72 (2025)
 
 ---
 ## Recommendations
@@ -49,6 +51,7 @@ Here are the references for the previous methods, credit to the authors.
 
 
 ---
+
 ## Instructions
 
 To use the notebooks:
